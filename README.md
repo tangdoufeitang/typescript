@@ -1,2 +1,2 @@
 # typescript
-typescript machine translation
+机翻版**typescript**
